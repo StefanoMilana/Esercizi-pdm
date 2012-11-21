@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="app_name">Esercitazione_22_11_2012</string>
+    <string name="Titolo_1">La nebulosa planetaria</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Descrizione_primo_articolo"> Una nebulosa planetaria si forma nella fase finale dell evoluzione di una stella simil al Sole. Dopo aver costantemente energia prodotta per diversi miliardi di anni attraverso la fusione nucleare dell idrogeno in elio nella sua regione centrale, o nucleo, la stella subisce una serie di crisi energetiche legate al depauperamento di idrogeno e successiva contrazione del nucleo. Queste crisi culminano nella stella in espansione un centinaio di volte per diventare una gigante rossa. Alla fine, la busta esterna del gigante rossa viene espulso e si allontana dalla stella ad una velocita relativamente tranquillo di meno di 100.000 miglia all ora. La stella nel frattempo si trasforma da un gigante freddo in un caldo, stella compatta che produce intense radiazioni ultraviolette e un vento veloce di particelle che si muovono a circa 6 milioni di miglia all ora. L interazione della radiazione UV e il vento veloce con la busta espulso gigante rossa crea la nebulosa planetaria.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_primo">Primo</string>
+    <string name="Titolo_2">Terremoto aquila</string>
+    <string name="title_activity_secondo">Secondo</string>
+    <string name="title_activity_terzo">Terzo</string>
+    <string name="Titolo_3">Youppit, l’app per visualizzare gli sconti intorno alla tua posizione</string>
+    <string name="Descrizione_terzo_articolo">Quante volte capita di navigare tra offerte, sconti, coupon con lo sguardo incuriosito, ma anche attonito e sconsolato di fronte alla posta elettronica traboccante di newsletter piene di proposte dell’ultimo minuto per cene, viaggi o spa e non sapere più cosa scegliere. Per una cena romantica, un momento conviviale, un regalo dell’ultimo minuto o semplicemente per se stessi. Partendo da questo presupposto nasce Youppit, applicazione gratuita</string>
+    <string name="Descrizione_secondo_articolo">Una scossa di terremoto di magnitudo 3.2 is stata registrata undici minuti dopo la mezzanotte in Abruzzo, in provincia dell Aquila, e chiaramente avvertita dalla popolazione.Secondo i rilievi dell Istituto nazionale di geofisica e vulcanologia (Ingv), il sisma ha avuto ipocentro a 9,6 km di profondità ed epicentro in prossimità dei comuni di Barete, L Aquila e Pizzoli. Dalle verifiche effettuate dalla Sala situazione Italia del Dipartimento della Protezione civile, non risultano danni a persone o cose. L epicentro esatto del sisma is stato individuato ad Arischia, frazione dell Aquila. La scossa ha provocato paura in larga parte della popolazione: numerose sono state le telefonate ai centralini delle forze dell ordine; moltissime le chiamate ai Vigili del fuoco per chiedere come comportarsi, quale fosse l intensita e l epicentro; molta gente si is riversata in strada; presi d assalto i social network dagli utenti aquilani per ottenere informazioni sull evento sismico. </string>
+    <string name="title_activity_quarto">Quarto</string>
+    <string name="Titolo_4">Samsung Italia:Skygo disponibile per...</string>
+    <string name="Descrizione_articolo_4">Ottime, davvero ottime notizie quelle che Samsung Italia comunica ai lettori della propria pagina Facebook ufficiale: SkyGo sara presto compatibile anche con Samsung Galaxy S3. Ad un utente che criticava la politica dei rilasci Samsung;applicazione, che consente di vedere i canali televisivi di Sky.</string>
+    <string name="title_activity_quinto">Quinto</string>
+    <string name="Titolo_5">Le news della sezione Benessere</string>
+    <string name="Descrizione_articolo_5">Volete bruciare grassi? Almeno un ora di allenamento prima della colazione . Sono ancora in molti a ritenere che perdere i chili di troppo debba coincidere con l attuazione di diete ferree o con l assunzione di misteriosi prodotti a base degli elementi piu disparati.</string>
+
+</resources>
